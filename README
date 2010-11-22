@@ -1,0 +1,9 @@
+Serendipity is a service that pings you when your friends have checkedin near 
+you using Facebook places.
+
+The client uses background location to keep the server up to date with your
+current location.  The server constantly polls facebook to see if any of your
+friends have logged in nearby.
+
+This app was made so I could try out pylons and learn about the facebook
+graph api.
