@@ -1,0 +1,6 @@
+[submodule "client/lib/three20"]
+	path = client/lib/three20
+	url = https://github.com/facebook/three20.git
+[submodule "client/lib/facebook-ios-sdk"]
+	path = client/lib/facebook-ios-sdk
+	url = https://github.com/facebook/facebook-ios-sdk.git
