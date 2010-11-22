@@ -1,0 +1,3 @@
+include serendipityserver/config/deployment.ini_tmpl
+recursive-include serendipityserver/public *
+recursive-include serendipityserver/templates *
