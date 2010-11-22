@@ -1,3 +1,4 @@
 client/build
 *.pyc
+client/Serendipity.xcodeproj/amit.*
 
